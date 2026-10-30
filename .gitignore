@@ -1,0 +1,11 @@
+# Tools, downloaded SDKs, and build artifacts
+tools/
+build/
+*.jks
+*.keystore
+*.idsig
+local.properties
+.gradle/
+.idea/
+*.iml
+
